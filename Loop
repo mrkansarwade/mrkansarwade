@@ -1,0 +1,13 @@
+x=1
+
+while x<=100:
+
+      print("The squre of %d = %d"%(x,x*x))
+
+      x=x+1
+
+      
+
+    
+
+x=int(input("enter value")
